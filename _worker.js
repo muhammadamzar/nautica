@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "amzarmuhammad742.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "nautica"; // Ganti dengan nama workers kalian
 const apiKey = "aa25ef567b069eb864c5b078c56af7ae7a764"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "amzarmuhammad742@gmail.com"; // Ganti dengan email yang kalian gunakan
